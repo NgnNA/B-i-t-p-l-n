@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1705502611 source:d:\c++\game domin\main.cpp
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+
